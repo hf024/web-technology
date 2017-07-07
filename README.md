@@ -22,17 +22,17 @@
     负责服务器部署，首页响应式布局开发，二维码扫描下载、游戏加载等子页面开发
 
 2 后台运营系统
-* [百度电脑专家CMS系统] (CodeIgniter）    
+* [百度电脑专家CMS系统 (CodeIgniter）](https://codeigniter.org.cn/)  
     参与部分运营页面开发
-* 百度PC输入法MIS系统 (iphp)         
+* [百度PC输入法MIS系统 (iphp)](http://www.ideawu.net/blog/archives/828.html)         
     旧功能维护、新功能开发，服务迁移
-* 百度PC输入法tips运营系统 (CodeIgniter)  
+* [百度PC输入法tips运营系统 (CodeIgniter](https://codeigniter.org.cn/)
     tips旧需求维护、新需求开发
-* flow流程管理系统 （CodeIgniter)    
+* [flow流程管理系统 （CodeIgniter)](https://codeigniter.org.cn/)   
     维护、bug修复
-* 输入法升级云锦平台 （ThinkPhp)      
+* [输入法升级云锦平台 （ThinkPhp)](http://www.thinkphp.cn/)      
     维护、问题追踪
-* 输入法升级自动化平台 （Python + Tornado)  
+* [输入法升级自动化平台 （Python + Tornado)](http://www.tornadoweb.cn/)  
     整体设计、开发
 
 3 客户端相关RESTful API
